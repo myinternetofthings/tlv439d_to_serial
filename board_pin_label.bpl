@@ -1,0 +1,23 @@
+// Board pin label
+// 3D Magnetic Sensor 2Go (XMC1100_Q024x0064)
+// v1.0 2017-11-30
+
+// P1_0
+14,LED1
+// P1_1
+13,LED2
+
+// P2_11
+8,TLV493D_SCL
+// P2_10
+7,TLV493D_SDA
+
+// P2_1
+2,OBD_UART_TXD
+// P2_2
+3,OBD_UART_RXD
+
+// P1_3
+11,SWD1/SPD1
+// P1_2
+12,SWDCLK1
